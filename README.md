@@ -124,7 +124,7 @@ I am particularly motivated by multidisciplinary environments combining **engine
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/lorenzo-mazzante)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lorenzo-mazzante)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat\&logo=gmail\&logoColor=white)](mailto:lorenzo.mazzante@etu.utc.fr
 )
 
