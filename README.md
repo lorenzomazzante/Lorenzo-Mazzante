@@ -16,7 +16,7 @@ I particularly enjoy working on projects where engineering and data-driven metho
 
 Development of an image-processing pipeline for the analysis of **cardiac MRI images**, including cardiac structure segmentation and estimation of the **left ventricular ejection fraction (LVEF)**.
 
-**Key topics:** Medical Imaging · Image Segmentation · Cardiac MRI · Image Processing · Python
+**Key topics:** Medical Imaging · Image Segmentation · Cardiac MRI · Image Processing · Matlab
 
 [View project →](https://github.com/lorenzomazzante/cardiac-MRI-segmentation)
 
@@ -52,7 +52,7 @@ Analysis of **electrocardiogram (ECG) signals** to extract physiological informa
 
 The project involved signal preprocessing, filtering, feature extraction, and analysis of cardiovascular indicators.
 
-**Key topics:** ECG · Biosignal Processing · Digital Signal Processing · Stress Detection · MATLAB / Python
+**Key topics:** ECG · Biosignal Processing · Digital Signal Processing · Stress Detection · LabView
 
 [View project →](https://github.com/MartinScorza/ecg-hrv-stress-detection)
 
@@ -64,7 +64,7 @@ Programming and interfacing of **two robotic hand architectures**, with a focus 
 
 The project provided practical experience with embedded systems, robotics, and hardware-software interaction.
 
-**Key topics:** Robotics · Embedded Systems · Programming · Hardware–Software Integration · Control
+**Key topics:** Robotics · Embedded Systems · Programming · Control · C · Python
 
 [View project →](https://github.com/MartinScorza/embedded-robotic-hand-control)
 
@@ -74,15 +74,19 @@ The project provided practical experience with embedded systems, robotics, and h
 
 **Programming & Data**
 
-`Python` `C/C++` `MATLAB` `Git` `Jupyter`
+`Python` `C/C++` `MATLAB` `SQL` `Jupyter`
 
-**Artificial Intelligence**
+**Tools**
 
-`Machine Learning` `Deep Learning` `CNNs` `Classification` `Model Evaluation`
+`Git/Github` `LabVIEW` `Simulink` `Proteus` `Autodesk Fusion`
+
+**AI & Vision**
+
+`Machine Learning` `Deep Learning` `Data mining` `Computer Vision` `Scikit-Learn/Tensorflow/Keras` `OpenCV` 
 
 **Biomedical Engineering**
 
-`Medical Imaging` `MRI` `ECG` `Biosignal Processing` `Image Processing` `Biomedical Data Analysis`
+`Medical Imaging` `Biosignal Processing` `Image Processing` `Biomaterials` `Biocompatibility`
 
 **Engineering**
 
